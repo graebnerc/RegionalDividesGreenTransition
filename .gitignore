@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+data/PATS_IPC_16112020163124884.csv
+output/*.pdf
+output/*.png
